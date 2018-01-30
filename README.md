@@ -20,5 +20,4 @@ pending = true
 detect.trigger(params, () => {
   pending = false
 })
-
 ```
