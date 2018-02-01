@@ -1,6 +1,6 @@
 {
   "name": "detect-private-protocol",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Detect Private Protocol",
   "main": "index.js",
   "repository": {
